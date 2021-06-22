@@ -5,7 +5,6 @@ import java.util.*;
 
 public class FruitExtractor {
 
-    int unExecptedCount;
     private  List<Fruits> getRandomCountsFruit(int noOfFruit, int fruitCode){
         List<Fruits> fruitBlow = new ArrayList<>();
         for (int i = 0; i < noOfFruit; i++) {
