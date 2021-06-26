@@ -1,4 +1,4 @@
-package practiceCode;
+package tv_fruitExtractor;
 
 public interface Fruits {
     String getColor();
